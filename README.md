@@ -4,6 +4,7 @@ Mao D, Liu J, Li X, et al. Holo-Mol: An Explainable Hybrid Deep Learning Framewo
 
 # Requirements
 > PyTorch
+> 
 > RDKit
 # Experiments
 See the folder for training and evaluation demos of a Holo-Mol model ``experiment``.
