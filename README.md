@@ -3,10 +3,10 @@ This is a implementation of our paper "Holo-Mol: An Explainable Hybrid Deep Lear
 Mao D, Liu J, Li X, et al. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4576369">Holo-Mol: An Explainable Hybrid Deep Learning Framework for Predicting Reactivity of Hydroxyl Radical to Water Contaminants Based on Holographic Fused Molecular Representations</a>
 
 # Requirements
-···
+```
 * PyTorch
 * RDKit
-···
+```
 # Experiments
 See the folder for training and evaluation demos of a Holo-Mol model ``experiment``.
 # Cite
