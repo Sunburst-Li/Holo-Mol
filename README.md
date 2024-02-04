@@ -1,6 +1,6 @@
 # Holo-Mol: An Explainable Hybrid Deep Learning Framework for Predicting Reactivity of Hydroxyl Radical to Water Contaminants Based on Holographic Fused Molecular Representations
 This is a implementation of our paper "Holo-Mol: An Explainable Hybrid Deep Learning Framework for Predicting Reactivity of Hydroxyl Radical to Water Contaminants Based on Holographic Fused Molecular Representations":
-Mao D, Liu J, Li X, et al. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4576369">Holo-Mol: An Explainable Hybrid Deep Learning Framework for Predicting Reactivity of Hydroxyl Radical to Water Contaminants Based on Holographic Fused Molecular Representations</a>
+Mao D, Liu J, Li X, et al. <a href="https://www.sciencedirect.com/science/article/pii/S1385894724001372#s0155">Holo-Mol: An Explainable Hybrid Deep Learning Framework for Predicting Reactivity of Hydroxyl Radical to Water Contaminants Based on Holographic Fused Molecular Representations</a>
 
 # Requirements
 * PyTorch >= 1.8.0
@@ -13,9 +13,11 @@ See the folder for training and evaluation demos of a Holo-Mol model ``experimen
 If you use **``Holo-Mol``** in your research, please cite:
 
 ```
-@article{mao4576369holo,
+@article{Mao2024HoloMolAE,
   title={Holo-Mol: An Explainable Hybrid Deep Learning Framework for Predicting Reactivity of Hydroxyl Radical to Water Contaminants Based on Holographic Fused Molecular Representations},
   author={Mao, Dianhui and Liu, Junling and Li, Xuebo and Zuo, Min and Yan, Wenjing},
-  journal={Available at SSRN 4576369}
+  journal={Chemical Engineering Journal},
+  year={2024},
+  url={https://doi.org/10.1016/j.cej.2024.148652}
 }
 ```
